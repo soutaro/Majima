@@ -1,0 +1,13 @@
+PODS:
+  - Quick (0.8.0)
+  - XcodeTestNavigatorFix (0.1.0)
+
+DEPENDENCIES:
+  - Quick
+  - XcodeTestNavigatorFix
+
+SPEC CHECKSUMS:
+  Quick: 563d0f6ec5f72e394645adb377708639b7dd38ab
+  XcodeTestNavigatorFix: da25bbc08dc4df0e98030b02375a5dc2e9947052
+
+COCOAPODS: 0.39.0
