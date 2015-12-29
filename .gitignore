@@ -1,3 +1,4 @@
 *.xcuserdatad
 Majima.xcworkspace
 Pods
+.DS_Store
