@@ -44,7 +44,7 @@ let result = ThreeWayMerge.merge(base: base, mine: mine, theirs: theirs)
 
 # Installation
 
-You can install the library via Cocoapods.
+You can install the library via CocoaPods.
 
 ```
 pod 'Majima'
